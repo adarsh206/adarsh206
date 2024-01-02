@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **adarsh2061998@gmail.com**
 
-- ⚡ Fun fact **I am trying be a good software engineer**
+- ⚡ Fun fact **I am trying to be a good software engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
