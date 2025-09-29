@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adarshkumar206" target="blank"><img src="https://img.shields.io/twitter/follow/adarshkumar206?logo=twitter&style=for-the-badge" alt="adarshkumar206" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently making projects on **MERN Stack**
 
 - 👯 I’m looking to collaborate on **FullStack project**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **adarsh2061998@gmail.com**
 
-- ⚡ Fun fact **I am trying be a good software engineer**
+- ⚡ Fun fact **I am trying be a great software engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
